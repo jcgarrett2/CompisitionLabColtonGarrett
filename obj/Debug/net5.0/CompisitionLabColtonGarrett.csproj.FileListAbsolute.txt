@@ -1,0 +1,5 @@
+C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.csproj.AssemblyReference.cache
+C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.AssemblyInfoInputs.cache
+C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.AssemblyInfo.cs
+C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.csproj.CoreCompileInputs.cache
