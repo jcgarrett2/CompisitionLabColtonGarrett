@@ -8,7 +8,9 @@ namespace CompisitionLabColtonGarrett
 
         public book(string isbn, string title, author author)
         {
-
+            this.isbn=isbn;
+            this.title=title;
+            this.author=author;
         }
 
         public string Getisbn()
@@ -41,8 +43,10 @@ namespace CompisitionLabColtonGarrett
             this.author=author;
         }
 
-        public void ToString(string isbn, string title, author author)
+        public string ToString(string isbn, string title, author author)
         {
+            string combined=isbn+title+author;
+            return combined;
         }
     }
 }

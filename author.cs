@@ -8,7 +8,9 @@ namespace CompisitionLabColtonGarrett
 
         public author(string name, string email, char gender)
         {
-
+            this.name=name;
+            this.email=email;
+            this.gender=gender;
         }
 
         public string GetName()
@@ -26,22 +28,23 @@ namespace CompisitionLabColtonGarrett
             return email;
         }
 
-        public void SetName()
+        public void SetName(string name)
         {
             this.name=name;
         }
-        public void SetGender()
+        public void SetGender(char gender)
         {
             this.gender=gender;
         }
-        public void SetEmail()
+        public void SetEmail(string email)
         {
             this.email=email;
         }
 
-        public string Tostring()
+        public string ToString(string name, string email, char gender)
         {
-
+            string authorcombined=name+email+gender;
+            return authorcombined;
         }
     }
 }

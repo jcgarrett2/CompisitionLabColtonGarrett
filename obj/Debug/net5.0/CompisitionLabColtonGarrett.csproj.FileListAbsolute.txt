@@ -3,3 +3,14 @@ C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColton
 C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.AssemblyInfoInputs.cache
 C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.AssemblyInfo.cs
 C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.csproj.CoreCompileInputs.cache
+C:\Users\rollt\CompisitionLabColtonGarrett\bin\Debug\net5.0\CompisitionLabColtonGarrett.exe
+C:\Users\rollt\CompisitionLabColtonGarrett\bin\Debug\net5.0\CompisitionLabColtonGarrett.deps.json
+C:\Users\rollt\CompisitionLabColtonGarrett\bin\Debug\net5.0\CompisitionLabColtonGarrett.runtimeconfig.json
+C:\Users\rollt\CompisitionLabColtonGarrett\bin\Debug\net5.0\CompisitionLabColtonGarrett.runtimeconfig.dev.json
+C:\Users\rollt\CompisitionLabColtonGarrett\bin\Debug\net5.0\CompisitionLabColtonGarrett.dll
+C:\Users\rollt\CompisitionLabColtonGarrett\bin\Debug\net5.0\ref\CompisitionLabColtonGarrett.dll
+C:\Users\rollt\CompisitionLabColtonGarrett\bin\Debug\net5.0\CompisitionLabColtonGarrett.pdb
+C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.dll
+C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\ref\CompisitionLabColtonGarrett.dll
+C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.pdb
+C:\Users\rollt\CompisitionLabColtonGarrett\obj\Debug\net5.0\CompisitionLabColtonGarrett.genruntimeconfig.cache
